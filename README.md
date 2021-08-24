@@ -1,2 +1,3 @@
-# wordpress-operator
-Creating go operator
+# Go Training
+
+Just training GO
